@@ -13,7 +13,7 @@ This is one of the projects that also serves as C++ practice!
 
 Compilation with [MinGW](https://sourceforge.net/projects/mingw/)
 
-```
+```cpp
 g++ calc source.cpp
 ```
 
