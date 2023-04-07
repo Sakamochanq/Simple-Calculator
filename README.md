@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/npm/l/Simple?style=flat-square">
+<img src="https://img.shields.io/github/size/Sakamochanq/Simple-Calculator/Source.cpp?color=pink&style=flat-square">
 
 ## Simple-Calculator
 
