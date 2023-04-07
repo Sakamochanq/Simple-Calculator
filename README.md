@@ -1,6 +1,6 @@
 <img src="https://img.shields.io/npm/l/Simple?style=flat-square">
 
-## Simple-Calclator
+## Simple-Calculator
 
 A tool for performing four arithmetic operations on a console created in C++.  
 This is one of the projects that also serves as C++ practice!  
