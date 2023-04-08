@@ -14,7 +14,7 @@ int main() {
     cout << "Enter the Options : [+], [-], [*], [/]" << "\n";
     cin >> Selc;
 
-    cout << "Enter the two Operandrs : " << "\n";
+    cout << "Enter the two Operandrs" << "\n";
     cin >> num1 >> num2 ;
 
     switch (Selc)
