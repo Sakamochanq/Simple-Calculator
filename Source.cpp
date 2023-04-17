@@ -1,46 +1,67 @@
-# include <iostream>
-# include <stdio.h>
+#include <stdio.h>
+#include <iostream>
+
+int num1, num2, result;
+
+char op;
 
 using namespace std;
 
 int main() {
 
-    printf("[ Simple Calculator v1.0 ]\n");
+    printf("[  Simple Calculator v1.2  ] \n");
 
-    char Selc;
+    std::cout << "> ";
+    std::cin >> num1;
 
-    float num1, num2;
+    std::cout << "[+] [-] [*] [/] > ";
+    std::cin >> op;
 
-    cout << "Enter the Options : [+], [-], [*], [/]" << "\n";
-    cin >> Selc;
+    std::cout << "> ";
+    std::cin >> num2;
 
-    cout << "Enter the two Operandrs" << "\n";
-    cin >> num1 >> num2 ;
-
-    switch (Selc)
+    if (op == '+')
     {
-        case '+' /* constant-expression */:
-            cout << num1 << " + " << num2 << " = " << num1+num2 << endl;
-            break;
+        result = num1 + num2;
 
-        case '-' /* constant-expression */:
-            cout << num1 << " - " << num2 << " = " << num1-num2 << endl;
-            break;
+        std::cout << num1 << " + " << num2 << " = " << result << endl;
 
-        case '*' /* constant-expression */:
-            cout << num1 << " * " << num2 << " = " << num1*num2 << endl;
-            break;
-
-        case '/' /* constant-expression */:
-            cout << num1 << " / " << num2 << " = " << num1/num2 << endl;
-            break;
-    
-    default:
-
-        cout << "Error !";
+        system("pause");
     }
 
-    system("pause");
+    else if (op == '-')
+    {
+        result = num1 - num2;
 
-    return 0;
+        std::cout << num1 << " - " << num2 << " = " << result << endl;
+
+        system("pause");
+    }
+
+    else if (op == '*')
+    {
+        result = num1 * num2;
+
+        std::cout << num1 << " + " << num2 << " = " << result << endl;
+
+        system("pause");
+    }
+
+    else if (op == '/')
+    {
+        result = num1 / num2;
+
+        std::cout << num1 << " / " << num2 << " = " << result << endl;
+
+        system("pause");
+    }
+
+    else 
+    {
+        std::cout << "Error" << endl;
+
+        system("pause");
+
+        return 0;
+    }
 }
