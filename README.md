@@ -23,15 +23,16 @@ g++ calc source.cpp
 git clone https://github.com/Sakamochanq/Simple-Calclator.git
 ```
 
-## Contributor
-
-> [Korozin](https://github.com/Korozin)
-
-<br>
-
-<img src="https://github.com/Sakamochanq/Simple-Calculator/blob/master/assets/Korozin.png" width="70px">
-
 ## License
 
 Released under [MIT](https://github.com/Sakamochanq/Simple-Calclator/blob/master/LICENSE) License
 Please check
+
+## Contributor
+
+<p align="left">
+
+  <img src="https://github.com/Sakamochanq/Simple-Calculator/blob/master/assets/Sakamochanq.png" width="60px">
+  <img src="https://github.com/Sakamochanq/Simple-Calculator/blob/master/assets/Korozin.png" width="55tpx">
+
+</p>
