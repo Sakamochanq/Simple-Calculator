@@ -27,7 +27,9 @@ git clone https://github.com/Sakamochanq/Simple-Calclator.git
 
 > [Korozin](https://github.com/Korozin)
 
-> Thank you so much :)
+<br>
+
+<img src="https://github.com/Sakamochanq/Simple-Calculator/blob/master/assets/Korozin.png" width="70px">
 
 ## License
 
