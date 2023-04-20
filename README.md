@@ -9,6 +9,10 @@ This is one of the projects that also serves as C++ practice!
 
 <img src="https://github.com/Sakamochanq/Simple-Calclator/blob/master/assets/Calc.png" width="" height="" alt="App">
 
+---
+
+<img src="https://github.com/Sakamochanq/Simple-Calclator/blob/master/assets/Calc2.png" width="" height="" alt="App">
+
 ## Compile
 
 Compilation with [MinGW](https://sourceforge.net/projects/mingw/)
@@ -32,7 +36,7 @@ Please check
 
 <p align="left">
 
-  <img src="https://github.com/Sakamochanq/Simple-Calculator/blob/master/assets/Sakamochanq.png" width="60px">
-  <img src="https://github.com/Sakamochanq/Simple-Calculator/blob/master/assets/Korozin.png" width="55tpx">
+  <img src="https://github.com/Sakamochanq/Simple-Calculator/blob/master/assets/Sakamochanq.png" width="55px">
+  <img src="https://github.com/Sakamochanq/Simple-Calculator/blob/master/assets/Korozin.png" width="50px">
 
 </p>
