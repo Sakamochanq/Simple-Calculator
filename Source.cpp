@@ -5,7 +5,7 @@ int num1, num2, result;
 
 char op;
 
-using namespace std;
+//using namespace std;
 
 int main() {
 
