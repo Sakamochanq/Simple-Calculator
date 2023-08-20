@@ -38,5 +38,6 @@ Please check
 
   <a href="https://github.com/Sakamochanq"><img src="https://github.com/Sakamochanq/Simple-Calculator/blob/master/assets/Sakamochanq.png" width="55px"></a>
   <a href="https://github.com/Korozin"><img src="https://github.com/Sakamochanq/Simple-Calculator/blob/master/assets/Korozin.png" width="50px"></a>
+  <a href="https://github.com/khaledGadelhaQ"><img src="https://github.com/Sakamochanq/Simple-Calculator/blob/master/assets/khaledGadelhaQ.jpg" width="45px"></a>
 
 </p>
